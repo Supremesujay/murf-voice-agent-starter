@@ -1,7 +1,7 @@
 [project]
-name = "falcon-tdova-25"
+name = "murf-voice-agent-starter"
 version = "0.1.0"
-description = "Add your description here"
+description = "A starter project for building streaming voice agents using Murf TTS API"
 readme = "README.md"
 requires-python = ">=3.11"
 dependencies = [
