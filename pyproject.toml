@@ -1,0 +1,13 @@
+[project]
+name = "falcon-tdova-25"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "assemblyai>=0.42.1",
+    "fastapi[standard]>=0.116.1",
+    "google-genai>=1.29.0",
+    "murf",
+    "websockets>=15.0.1",
+]
